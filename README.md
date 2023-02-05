@@ -7,7 +7,6 @@
 ├── indoorCVPR_09.tar
 ├── open.zip
 ├── preprocess.ipynb
-├── sample_submission.csv
 └── train.ipynb
 ```
 indoorCVPR_09.tar
