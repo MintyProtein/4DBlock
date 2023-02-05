@@ -10,10 +10,12 @@
 ├── sample_submission.csv
 └── train.ipynb
 ```
-indoorCVPR_09.tar 
+indoorCVPR_09.tar
+
 -download from https://web.mit.edu/torralba/www/indoor.html
 
 open.zip 
+
 -dowload from https://dacon.io/competitions/official/236046/data
 
 ## Train Process
