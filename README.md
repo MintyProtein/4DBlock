@@ -19,7 +19,7 @@ open.zip
 
 -dowload from https://dacon.io/competitions/official/236046/data
 
-## Train Process
+## Train & Inference
 1. Download indoorCVPR_09.tar & open.zip from the link above, and unzip it
 2. Run preprocess.ipynb to generate background-removed block image
 3. Run train.ipynb
